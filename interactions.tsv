@@ -1,4 +1,4 @@
-sourceOccurrenceId	sourceTaxonId	sourceTaxonId	sourceBodyPartId	sourceBodyPartName	sourceLifeStageId	sourceLifeStageName	interactionTypeId	interactionTypeName	targetOccurrenceId	targetTaxonId	targetTaxonName	targetBodyPartId	targetBodyPartName	targetLifeStageId	targetLifeStageName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceUrl	referenceCitation
+sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceBodyPartId	sourceBodyPartName	sourceLifeStageId	sourceLifeStageName	interactionTypeId	interactionTypeName	targetOccurrenceId	targetTaxonId	targetTaxonName	targetBodyPartId	targetBodyPartName	targetLifeStageId	targetLifeStageName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceUrl	referenceCitation
 		Isothecium					RO:0002437	interacts with			Synchaetomella						Klamath Mountains					www.ucedna.com	
 		Isothecium					RO:0002437	interacts with			Piptocephalis						Klamath Mountains					www.ucedna.com	
 		Isothecium					RO:0002437	interacts with			Colpodella						Klamath Mountains					www.ucedna.com	
