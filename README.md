@@ -8,3 +8,5 @@ This repository is prepared for http://globalbioticinteractions.org
 
 
 [![DOI](https://zenodo.org/badge/188169008.svg)](https://zenodo.org/badge/latestdoi/188169008)
+
+[![Build Status](https://travis-ci.org/beraute/Klamath-mountains.svg)](https://travis-ci.org/beraute/Klamath-mountains)
